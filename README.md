@@ -5,9 +5,9 @@ This collection of Advanced  Interview Questions is designed to help experienced
 
 ## Table of Contents
 
-- [JavaScript](./javascript/)
-- [Tailwind](./tailwind/)
-- [Frameworks & Libraries](./frameworks-libraries/)
+- [JavaScript](./javascript/README.md)
+<!-- - [Tailwind](./tailwind//README.md)
+- [Frameworks & Libraries](./frameworks-libraries/README.md) -->
 <!-- - [Performance](#performance)
 - [Testing](#testing)
 - [Architecture & Design](#architecture--design)
