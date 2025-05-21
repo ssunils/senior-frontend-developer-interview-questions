@@ -5,14 +5,14 @@ This collection of Advanced  Interview Questions is designed to help experienced
 
 ## Table of Contents
 
-- [JavaScript](#javascript)
-- [Tailwind] (#tailwind)
-- [Frameworks & Libraries](#frameworks--libraries)
-- [Performance](#performance)
+- [JavaScript](./javascript/)
+- [Tailwind](./tailwind/)
+- [Frameworks & Libraries](./frameworks-libraries/)
+<!-- - [Performance](#performance)
 - [Testing](#testing)
 - [Architecture & Design](#architecture--design)
 - [Tooling](#tooling)
-- [Best Practices](#best-practices)
+- [Best Practices](#best-practices) -->
 
 # Contributions
 
